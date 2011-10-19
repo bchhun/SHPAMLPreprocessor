@@ -25,5 +25,5 @@ h2. Thank you
 
 "Jon Skinner":https://twitter.com/#!/sublimehq for a marvelous text editor
 
-"Steve Howell" for an "awesome HTML preprocessor":http://shpaml.webfactional.com/ 
+"Steve Howell":https://bitbucket.org/showell for an "awesome HTML preprocessor":http://shpaml.webfactional.com/ 
 
