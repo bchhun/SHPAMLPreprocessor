@@ -1,0 +1,29 @@
+h1. Sublime Text 2 HTML preprocessor plugin
+
+This is a plugin for web devs :
+
+* who has to deal with a lot of HTML files
+* who wants something similar to HAML *without* Ruby
+
+h2. What it does
+
+The plugin will create a new HTML/XML file in the same directory as your *.shpaml* file once you save it.
+
+h2. SHPAML ?
+
+bq. SHPAML allows you to produce HTML with cleaner syntax, without introducing any other layer of abstraction. 
+
+"More information":http://shpaml.webfactional.com/
+
+h2. Show me
+
+"Examples from the SHPAML website":http://shpaml.webfactional.com/examples
+
+You may also check out the "test.html.shpaml":https://github.com/bchhun/SHPAMLPreprocessor/blob/master/test.html.shpaml and its "processed result":https://github.com/bchhun/SHPAMLPreprocessor/blob/master/test.html 
+
+h2. Thank you
+
+"Jon Skinner":https://twitter.com/#!/sublimehq for a marvelous text editor
+
+"Steve Howell" for an "awesome HTML preprocessor":http://shpaml.webfactional.com/ 
+
