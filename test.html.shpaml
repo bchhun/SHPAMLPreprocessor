@@ -1,0 +1,20 @@
+<!doctype html>
+html
+	head
+		<script type="text/javascript"></script>
+		<style type="text/css"></style>
+	body
+		div#header
+			nav
+				ul 
+					li > a href="http://wired.com" | a menu item
+					li > a href="#" | a second menu item
+					li.foo > a href="#" | a menu item
+		div#main
+			aside
+				nav
+					a href="#" | aside
+			section
+				div.wysiwyg
+					h2 | a h2 title
+					h3 | a h3 title
